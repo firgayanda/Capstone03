@@ -1,4 +1,4 @@
-# HOTEL BOOKING DEMAND
+# HOTEL BOOKING CANCELLATION PREDICTION
 Pada dasarnya sebuah bisnis hotel adalah pengelolaan dan pemanfaatan sebuah bangunan atau area sebagai sebuah tempat tinggal sementara waktu dengan tujuan untuk mendapatkan keuntungan secara finansial. Oleh karena itu, pemanfaatan kamar yang tersedia secara efektif dan optimal menjadi salah satu hal yang perlu diperhatikan untuk memaksimalkan keuntungan. Selain itu, sebuah bisnis hotel didasari oleh pemberian pelayanan yang terbaik untuk menciptakan kenyamanan dan pengalaman yang baik untuk seluruh konsumennya, sehingga *brand image* merupakan hal yang sangat penting.
 ## Problem Statement
 Saat ini teknologi telah memudahkan para calon konsumen hotel untuk mencari dan melakukan pemesanan kamar hotel, khususnya dengan adanya layanan *online*. Namun, selain keuntungan yang diberikan, hal ini pun berimbas meningkatnya tingkat pembatalan pemesanan kamar hotel, sehingga menyebabkan hotel tidak dapat mengoptimalisasi ketersediaan kamar hotel dan terbuangnya beberapa persediaan hotel yang sebagian besar bersifat tidak tahan lama. Hal tersebut memberikan efek negatif terhadap bisnis dan keuntungan.
